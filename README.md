@@ -87,26 +87,25 @@
 
 タスク名・所要時間・ジャンル・優先度を設定して、取り組みたいタスクを登録します。
 
-<img src="images/01-task-registration.jpg" width="300">
+<img src="images/01_task-registration.jpeg" width="300">
 
 ### 2. スキマ時間を選択
 
 現在使える時間を「5分・10分・15分」から選択します。
 
-<img src="images/02-time-selection.png" width="300">
+<img src="images/02_time-selection.PNG" width="300">
 
 ### 3. おすすめタスクを提案
 
 選択した時間と登録内容をもとに、取り組むタスクを提案します。
 
-<img src="images/03-task-suggestion.jpg" width="300">
+<img src="images/03_task-suggestion.jpeg" width="300">
 
 ### 4. 実行履歴を確認
 
 完了したタスクを記録し、よく実行したタスクやカテゴリごとの実行回数、過去の履歴を確認できます。
 
-<img src="images/04-history.jpg" width="300">
-
+<img src="images/04_history.jpeg" width="300">
 ---
 
 ## 🚀 Release
