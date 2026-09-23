@@ -98,8 +98,15 @@
 
 iOSアプリとしてApp Storeへの申請・公開を行いました。
 
+![App Store公開画面](images/app-store.png)
+
 開発だけでなく、実機テスト、申請準備、審査対応、リリース後のアップデートまで経験しています。
 
+### App Store
+
+「スキマプラス」はApp Storeで公開しています。
+
+[App Storeで「スキマプラス」を見る](https://apps.apple.com/jp/app/スキマプラス/id6777852038)
 ---
 
 ## 📚 この開発で経験したこと
